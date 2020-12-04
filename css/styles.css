@@ -1,0 +1,624 @@
+/* Title(navbar) Section */
+.Heading {
+  background-color: #e84545;
+  color: white;
+  padding-bottom: 15px;
+  font-size: 25px;
+}
+
+.navbar-brand {
+  font-size: 70px;
+  font-family: 'Italianno', cursive;
+  z-index: 2;
+}
+
+
+
+.Head-pic {
+  width: 400px;
+  height: 300px;
+}
+
+.Head-img {
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 3%;
+  z-index: 2;
+}
+
+/*ending of navbar heading section*/
+
+
+
+
+/* fonts */
+h1 {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 16px;
+}
+
+h2,h3,a {
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+p {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 23px;
+}
+
+
+
+
+
+/*ending of fonts*/
+
+
+
+
+
+/*Intro talks about anglo-indian cusine */
+#Intro {
+
+  background-color: #e84545;
+  color: white;
+}
+
+.Intro{
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+.Spice-img {
+  text-align: center;
+  padding-bottom: 4%;
+  padding-top: 4%;
+}
+
+.Intro-Head {
+  font-size: 30px;
+}
+
+.spice {
+  width: 600px;
+}
+
+.hyperlink {
+  color: #ef8172;
+  text-align: right;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.hyperlink:hover {
+  color: #e84545;
+}
+
+.small-para {
+  text-align: center;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+.book{
+  height: 500px;
+  width:400px;
+
+}
+#Intro-Head{
+  font-size: 60px;
+}
+.book-div{
+    text-align: center;
+}
+.Introduction-head{
+  text-align: center;
+}
+
+.intro-pick-img{
+  width: 500px;
+  height: 350px;
+}
+
+.intro-pic{
+  padding-top: 1%;
+  padding-bottom: 3%;
+}
+.intro-pics-all{
+  text-align: center;
+}
+.intro-desc{
+  font-size: 23px;
+}
+
+/*caraousel*/
+#testimonials {
+  background-color: #e84545;
+}
+
+.testimonial-image {
+  width: 900px;
+  height: 500px;
+}
+
+.carousel-item {
+  text-align: center;
+}
+
+@media (max-width: 1028px) {
+  .testimonial-image {
+    width: 900px;
+    height: 500px;
+  }
+}
+
+@media (max-width: 700px) {
+  .testimonial-image {
+    width: 600px;
+    height: 400px;
+  }
+}
+
+@media (max-width: 640px) {
+  .testimonial-image {
+    width: 500px;
+    height: 350px;
+  }
+}
+
+@media (max-width: 400px) {
+  .testimonial-image {
+    width: 300px;
+    height: 250px;
+  }
+}
+
+  /* copyright*/
+  .Copyright {
+    padding-top: 3%;
+    text-align: center;
+    padding-bottom: 2%;
+  }
+
+  #Copyright-Claim {
+    background-color: white
+  }
+
+  fa-instagram, fa-facebook, fa-twitter, fa-envelop {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+
+
+
+  /* top picks and desc about me Section AND INTRO*/
+  #features {
+    position: relative;
+    background: white;
+    text-align: center;
+  }
+.feature-box{
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  width: 700px;
+}
+
+.container-T{
+  background-color: white;
+  border: 0;
+  padding-bottom: 3%;
+}
+.feature-title{
+  text-align: center;
+}
+.ques{
+  text-align: center;
+}
+.TOP-PICKS{
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-family:'Montserrat Alternates', sans-serif;
+  background-color: white;
+
+}
+
+.Top-pick-word{
+  font-size: 50px;
+}
+.Top-picks{
+  padding-top: 3%;
+}
+
+.pic-top{
+  color: #e84545;
+}
+.pic-top:hover{
+  color: #cf1b1b;
+}
+.Anglo-Indian-cutlets{
+padding-bottom: 3%;
+}
+.top{
+  font-size: 50px;
+}
+.top-pick-img{
+  width: 96%;
+  height: 420px;
+}
+@media (max-width: 560px) {
+  .top-pick-img {
+    width: 350px;
+    height: 150px;
+  }
+}
+#container {
+    padding-top: 3%;
+    border-radius: 5px;
+    background-color: white;
+    padding: 20px;
+    color: black;
+}
+
+.breadnButterPudding{
+  padding-top: 7%;
+  padding-right: 35%;
+  padding-bottom: 6%;
+}
+
+  .feature-title {
+    font-size: 25px;
+  }
+
+.about-Me {
+  padding-bottom: 3%;
+}
+  .icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+  }
+
+  .icon:hover {
+    color: #e84545;
+  }
+
+  .pi{
+    padding-left: 15%;
+    text-align: center;
+  }
+
+  @media (max-width: 1060px) {
+
+    .aic{
+      width: 350px;
+      height: 200px;
+    }
+    .bbp{
+      width: 300px;
+      height: 200px;
+    }
+    .TOP-PICKS{
+      text-align: left;
+    }
+    .Anglo-Indian-cutlets{
+      padding-right: 3%;
+    }
+  }
+
+  @media (max-width:500px) {
+  .feature-box {
+    padding-left: 25%;
+  }
+  }
+
+
+
+
+/* contact me page */
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+
+#details{
+  color: white;
+}
+
+.contact{
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.container {
+  padding-top: 3%;
+  border-radius: 5px;
+  background-color: #dddddd;
+  padding: 20px;
+  color: black;
+}
+
+.cont{
+  font-size: 25px;
+}
+
+.cont-small{
+  font-size: 18px;
+}
+
+.formo{
+  text-align: center;
+  background-color: #e84545;
+}
+
+#Form{
+  background-color: white;
+}
+
+
+
+
+/* About me and copyright  */
+#Description{
+  background-color: #e84545;
+}
+
+.desco{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.Abt-Me{
+  padding-top: 2%;
+  padding-bottom: 5%;
+
+  color: white;
+}
+
+.abt-head{
+  font-size: 40px;
+    text-align: center;
+}
+
+.copy{
+  padding-top: 3%;
+  padding-bottom: 3%;
+  text-align: center;
+}
+#Copy{
+  background-color: #e84545;
+  color: white;
+}
+
+
+
+/* recipes */
+.Recipe-head{
+  font-size: 30px;
+  text-align: center;
+}
+
+.Recipe-fop{
+padding-top: 2%;
+padding-bottom: 2%;
+background-color: #ffb0b0;
+}
+
+.recipes{
+  padding-top: 2%;
+}
+.Recipe-Name{
+font-size: 40px;
+text-align: center;
+color: #cf1b1b;
+}
+.Recipe-Name:hover{
+    color: #e84545;
+}
+/* Description about recipe */
+.desc-recipe{
+  padding-top: 1%;
+padding-left: 3%;
+padding-bottom: 2%;
+text-align: left;
+}
+.recipe-des{
+  font-size: 23px;
+}
+#mutton-pic{
+  width: 800px;
+}
+.rec-name{
+  padding-top: 3%;
+  padding-bottom: 3%;
+  text-align: center;
+}
+.recipe-section{
+  background-color: white;
+}
+
+.recipe-pic{
+  width: 96%;
+  height: 420px;
+}
+.br-rec{
+  width: 630px;
+  height: 250px;
+}
+.pi{
+  padding-left: 2%;
+}
+.recipe-img{
+text-align: center;
+padding-right: 3%;
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+
+.desc-recipe{
+text-align: left;
+padding-right: 3%;
+padding-left: 6%;
+}
+
+/* responsiveness for recipes*/
+@media (max-width: 500px){
+.recipe-pic {
+    width: 100%;
+    height: 300px;
+    text-align: center;
+}
+}
+
+
+
+/* recipe page cutlets*/
+.Recipe-content{
+  padding-top: 3%;
+  text-align: left;
+  padding-left: 6%;
+  padding-bottom: 3%;
+}
+
+.Recipe-pg-name{
+
+  font-size: 60px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.Ingredients-procedure{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.recipe-pg-img{
+  width: 700px;
+  height: 350px;
+}
+
+.pork-img{
+  width: 600px;
+
+}
+.Pic-desc{
+  text-align: center;
+}
+/* recipe page instructions*/
+.Ingredient-img{
+  width: 600px;
+  height: 470px;
+}
+.Ingredient-div{
+
+  padding-bottom: 2%;
+}
+.Ingredient-pic-div{
+  padding-bottom: 5%;
+}
+.Instruction-img{
+  width: 900px;
+  height: 700px;
+}
+/* safety Precautions */
+#Safety-Precautions{
+  background-color: #ffb0b0;
+}
+
+.Safety-Precautios-Head{
+  padding-top: 3%;
+  padding-bottom: 3%;
+  text-align: center;
+
+}
+
+.sfty-head{
+  font-size: 65px;
+    font-family: 'Italianno', cursive;
+}
+
+.knife-img{
+  width: 400px;
+  height: 300px;
+
+}
+.stove-img{
+
+    z-index: -1;
+}
+
+.img-of-knife{
+  text-align: center;
+
+}
+
+.Sub-head{
+  padding-bottom: 3%;
+  padding-top: 3%;
+  text-align: center;
+}
+
+@media (max-width:600px) {
+  .desc-safety{
+    padding-left: 1%;
+    padding-bottom: 3%;
+  }
+}
+.desc-safety{
+
+  padding-bottom: 3%;
+}
+.stove-desc{
+  padding-left: 2%;
+}
+
+/* bibliography*/
+.bibli{
+  padding-top: 2%;
+  padding-left: 4%;
+  text-align: left;
+  padding-bottom: 2%;
+  font-size: 24px;
+  color: white;
+}
+
+#bibliography{
+  background-color:#e84545;
+}
+.pc{
+  font-family: 'Montserrat Alternates', sans-serif;
+
+}
+.pcl{
+  color: white;
+}
+
+#pork-img{
+  width: 400px;
+  height: 350px;
+}
+#pork-img-rec{
+  width: 500px;
+  height: 440px;
+}
